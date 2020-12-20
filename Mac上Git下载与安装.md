@@ -12,7 +12,7 @@
 
 ```
 cd ~/.ssh
-ssh-keygen -t tsa -C 506877354@qq.com
+ssh-keygen -t rsa -C 506877354@qq.com
 ```
 
 将SSH Key添加到代码库上
